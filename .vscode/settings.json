@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "xstring": "cpp"
+    },
+    "makefile.configurations": [
+        {
+            "name": "default"
+        }
+    ],
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "c:\\Users\\ryan\\IdeaProjects\\fuck\\target",
+            "binaryPath": "c:\\Users\\ryan\\IdeaProjects\\fuck\\target\\yummy.exe",
+            "binaryArgs": []
+        }
+    ]
+}
